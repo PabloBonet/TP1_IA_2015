@@ -92,7 +92,7 @@
           <styles xmi:type="notation:FilteringStyle" xmi:id="_ny5dw970EeSFMbU21IR8EQ"/>
         </children>
         <element xmi:type="idemia:State" href="default.idemia#//@Agent/@AgentState"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ny42sd70EeSFMbU21IR8EQ" y="-5" width="191" height="173"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ny42sd70EeSFMbU21IR8EQ" y="-5" width="191" height="183"/>
       </children>
     </children>
     <children xmi:type="notation:BasicCompartment" xmi:id="_ipcYA97xEeSFMbU21IR8EQ" type="7003">
@@ -106,7 +106,7 @@
       <styles xmi:type="notation:FilteringStyle" xmi:id="_ipcYBd7xEeSFMbU21IR8EQ"/>
     </children>
     <element xmi:type="idemia:Agent" href="default.idemia#//@Agent"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ipbJ4d7xEeSFMbU21IR8EQ" x="45" y="65" width="521" height="431"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ipbJ4d7xEeSFMbU21IR8EQ" x="50" y="35" width="521" height="586"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_YC1MYN72EeSFMbU21IR8EQ" type="2002" fontName="Segoe UI">
     <children xmi:type="notation:DecorationNode" xmi:id="_YC-WUN72EeSFMbU21IR8EQ" type="5018"/>
@@ -149,7 +149,7 @@
       </children>
     </children>
     <element xmi:type="idemia:Environment" href="default.idemia#//@Environment"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YC1MYd72EeSFMbU21IR8EQ" x="690" y="80" width="266" height="301"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YC1MYd72EeSFMbU21IR8EQ" x="755" y="35" width="266" height="301"/>
   </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_f_f6Qd7xEeSFMbU21IR8EQ"/>
   <element xmi:type="idemia:AgentModel" href="default.idemia#/"/>
