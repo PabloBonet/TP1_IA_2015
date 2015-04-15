@@ -1,0 +1,32 @@
+!SESSION 2015-04-15 16:59:50.677 -----------------------------------------------
+eclipse.buildId=I20090611-1540
+java.version=1.7.0_67
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_AR
+Framework arguments:  -product org.eclipse.epp.package.modeling.product -product org.eclipse.epp.package.modeling.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.modeling.product -data C:\Users\Martin\Documents\GitHub\TP1_IA_2015 -product org.eclipse.epp.package.modeling.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2015-04-15 17:00:04.380
+!MESSAGE Both 'org.pnml.tools.epnk' and 'org.pnml.tools.epnk.diagram' register an extension parser for 'pnx'
+
+!ENTRY org.eclipse.osgi 2 1 2015-04-15 17:02:40.051
+!MESSAGE NLS unused message: Reflective3CreationTool_title in: messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-04-15 17:02:40.052
+!MESSAGE NLS unused message: Reflective3CreationTool_desc in: messages
+!SESSION 2015-04-15 17:03:45.749 -----------------------------------------------
+eclipse.buildId=I20090611-1540
+java.version=1.7.0_67
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_AR
+Framework arguments:  -product org.eclipse.epp.package.modeling.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.modeling.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2015-04-15 17:03:49.861
+!MESSAGE Both 'org.pnml.tools.epnk' and 'org.pnml.tools.epnk.diagram' register an extension parser for 'pnx'
+
+!ENTRY org.eclipse.osgi 2 1 2015-04-15 17:03:50.506
+!MESSAGE NLS unused message: Reflective3CreationTool_title in: messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-04-15 17:03:50.506
+!MESSAGE NLS unused message: Reflective3CreationTool_desc in: messages
