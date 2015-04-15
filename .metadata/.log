@@ -1,0 +1,15 @@
+!SESSION 2015-04-15 16:24:40.293 -----------------------------------------------
+eclipse.buildId=I20090611-1540
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_AR
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data C:\workspaces\TP1_IA_2015
+
+!ENTRY org.eclipse.emf.ecore 2 0 2015-04-15 16:24:44.909
+!MESSAGE Both 'org.pnml.tools.epnk' and 'org.pnml.tools.epnk.diagram' register an extension parser for 'pnx'
+
+!ENTRY org.eclipse.osgi 2 1 2015-04-15 16:25:53.644
+!MESSAGE NLS unused message: Reflective3CreationTool_title in: messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-04-15 16:25:53.645
+!MESSAGE NLS unused message: Reflective3CreationTool_desc in: messages
